@@ -15,4 +15,4 @@ export default function CardList({data: listData}) {
         </div>
     );
 };
- 
+  
